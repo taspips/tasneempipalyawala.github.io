@@ -1,6 +1,6 @@
-# Tasneem Pipalyawala
+# Welcome to my Dev World!
 
-[Tasneem Pipalyawala](Linkedin_image.jpeg)
+![Tas Portfolio Banner](https://github.com/taspips/tasneempipalyawala.github.io/assets/53135770/83b2d233-c01f-499d-b49b-4d5a9e3e50ce)
 
 Welcome to my Data Science and AI Portfolio! This repository showcases a collection of my projects, analyses, and implementations in the fields of Data Science, Machine Learning, and Artificial Intelligence. Each project demonstrates my problem-solving skills, technical expertise, and creativity in utilizing data to gain valuable insights and create intelligent systems.
 
@@ -9,8 +9,6 @@ Welcome to my Data Science and AI Portfolio! This repository showcases a collect
 - [Introduction](#introduction)
 - [Projects](#projects)
 - [Technologies](#technologies)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Contact Information](#contact-information)
 
 ## Introduction
@@ -23,7 +21,6 @@ In this portfolio, you will find a diverse range of projects that highlight my p
    - Developed a natural language processing (NLP) model to analyze sentiment in social media text.
    - Preprocessed text data by tokenization, removing stop words, and converting to word embeddings.
    - Implemented a Recurrent Neural Network (RNN) using LSTM to classify sentiment.
-   - Attained a sentiment classification accuracy of Y%.
 
 2. **Image Classification using Convolutional Neural Networks**
    - Created an image classification pipeline using Convolutional Neural Networks (CNNs).
@@ -34,13 +31,11 @@ In this portfolio, you will find a diverse range of projects that highlight my p
    - Conducted sentiment analysis on a dataset of customer reviews using natural language processing techniques.
    - Preprocessed textual data by tokenization, stemming, and removing stop words.
    - Implemented and compared multiple models to accurately classify sentiments as positive, negative, or neutral.
-   - Achieved an accuracy of X% in sentiment classification.
 
 4. **Brain Tumor Classification from MRI Scans**
    - Developed a deep learning model to classify brain MRI scans into tumor and non-tumor categories.
    - Preprocessed medical images by applying image augmentation and normalization.
    - Designed a Convolutional Neural Network (CNN) architecture and fine-tuned it for optimal performance.
-   - Attained Y% accuracy in brain tumor classification on a challenging dataset.
 
 5. **Yoga Pose Detection Using Pose Estimation**
    - Created an AI system to detect and classify yoga poses in real-time using computer vision.
@@ -79,6 +74,6 @@ The projects in this portfolio utilize a variety of technologies, including but 
 If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me:
 
 - Email: tasneempipalyawala@gmail.com
-- LinkedIn: [Your Name](https://www.linkedin.com/in/tasneem-pipalyawala)
+- LinkedIn: [tasneem-pipalyawala](https://www.linkedin.com/in/tasneem-pipalyawala)
 
 Thank you for visiting my portfolio! I look forward to connecting with you and discussing the exciting world of Data Science and AI.
